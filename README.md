@@ -1,4 +1,4 @@
 # PTAPI
 
 
-github上传文件大小限制，数据集网盘地址：https://pan.baidu.com/s/1Ds698WPTbUhCnUWcEFyS0A?pwd=mi3z
+Due to the github upload file size limit, the address of the dataset is: https://pan.baidu.com/s/12z1HHF-rPDQ9rrqo5hWTaQ?pwd=yk4c 
